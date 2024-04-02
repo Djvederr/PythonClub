@@ -1,0 +1,3 @@
+{list name}=[{item 1},{item 2},.....]
+To refer to specific item:
+    {list name}[index]

@@ -1,0 +1,5 @@
+if({boolean}):
+    [Code body]
+
+If statment will enter the code body if boolean is true
+Code body will be skipped if boolean is false

@@ -1,0 +1,14 @@
+DO SYNTAX FOR EVERYTHING PLS
+
+1.Introduce and recap basics(Aditya)
+    1.Integers/floats etc.
+    2.Strings
+    3.Booleans + and/or/xor/not + If
+    4.Explicit/implicit coversions
+    5.Lists (ask a question)
+2.For/While(Ved)
+    1.What do you think the range() function does?
+    2.Explain iteration through lists
+    3.While (connect to if statements)
+
+IF THERES EXTRA TIME ASK Qs / DO A RECAP

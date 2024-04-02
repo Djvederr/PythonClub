@@ -1,0 +1,3 @@
+while({boolean}):
+    [Code body]
+while will only iterate while boolean is true

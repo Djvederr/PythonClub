@@ -1,0 +1,4 @@
+for {variable name} in {list}:
+    [Code body]
+for loop will iterate through the list
+every iteration the variable will be assigned the corresponding value in the list
