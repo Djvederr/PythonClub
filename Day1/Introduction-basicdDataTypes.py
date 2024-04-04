@@ -4,10 +4,10 @@ banana="Python"
 print(apples)
 print(oranges)
 print(banana)
-atype=type(apples)
+"""atype=type(apples)
 otype=type(oranges)
 btype=type(banana)
 print(atype)
 print(otype)
-print(btype)
+print(btype)"""
 #what do you think the type() function does
