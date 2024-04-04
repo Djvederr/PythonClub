@@ -11,5 +11,6 @@ print(fruits)#What will this output?
 
 #print(fruits[1])#What will this output
 #print(len(fruits))#''
-#print(fruits[x:y])
+#print(fruits[x:y])#what data type will this output?
 #print(fruits.index())
+
