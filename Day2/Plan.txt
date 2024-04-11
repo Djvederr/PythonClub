@@ -1,0 +1,61 @@
+
+Basic:
+1(1)-Introduce how step works
+1(2)-Look at positive negative step
+1(3)-Turning
+1(7)-Intro to spaceship
+1(8)-Intergrating Dev and Spaceship
+1(9)-Spaceship turning
+1(10)-Spaceship no back
+1(13)-Loops
+1(14)-Watch out for order!
+1(16)
+1(17)
+1(18)
+2(2)
+2(3)
+2(4)
+2(6)
+2(7)
+2(8)
+2(9)
+2(11)
+2(14)
+2(16)
+2(17)
+2(18)
+2(19)
+2(20)
+
+
+
+
+For loop basic:
+2(14)-interesting problem
+
+
+Flyers:
+1(11)-Look at which flyer path is shorter
+1(12)-Show the logic in order to move flyers
+1(13)-Look at how to optimize
+1(18)-Loop
+
+Variables: REMEMEBRE THAT THIS PROBLEM SPECIFIES THAT YOU CAN ONLY USE VARIVABLE IN THE FUNCTION paranthesessases
+1(1)
+1(2)
+1(9)
+1(12)
+1(13)
+1(15)
+1(19)
+1(20)
+2(1)
+2(20)
+
+
+I HATE THIS WHY ARE THERE SI M<ANY STU)DP+IDN _R{A CTUC E FRHPAKLFDAMjn PROFRAMS IM GOING TO DIE GHELP ME PSL (if statements):
+1(1)
+1(2)
+
+IM GOING TO DIE WE CAN DO IF LATER AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHH
+
